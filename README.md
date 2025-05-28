@@ -1,52 +1,47 @@
-# 👋 Hi, I'm Rishieghesh Thayaparan
-
-🎓 **Higher National Diploma in Information Technology (HNDIT)**  
-📍 Kalmunai, Eastern Province, Sri Lanka  
-📧 [rishieghesh202@gmail.com](mailto:rishieghesh202@gmail.com)  
-📱 +94 767573941  
-🔗 [LinkedIn](https://www.linkedin.com/in/rishieghesh-thayaparan)  
+<h1 align="center">Hi there 👋, I'm Rishieghesh Thayaparan</h1>
+<p align="center">
+  🎓 Undergraduated | 💻 Aspiring Web Developer | 🌍 Kalmunai, Sri Lanka  
+</p>
+<p align="center">
+  <a href="mailto:rishieghesh202@gmail.com"><img src="https://img.shields.io/badge/Email-rishieghesh202@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/rishieghesh-thayaparan"><img src="https://img.shields.io/badge/LinkedIn-Rishieghesh-blue?style=for-the-badge&logo=linkedin"></a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a motivated and detail-oriented IT graduate with hands-on experience in software and web development. My academic and industrial training has shaped me into a practical thinker eager to contribute to real-world technology solutions.
+I am a detail-oriented IT graduate with practical experience in software and web development. With a solid foundation in both frontend and backend technologies, I am passionate about delivering real-world solutions and collaborating on meaningful projects.
 
-I’m passionate about:
-- Building web and desktop applications.
-- Exploring new tools and technologies.
-- Contributing to team-driven software projects.
-- Solving technical problems with practical solutions.
 
----
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+### 👨‍💻 Programming Languages  
+`C#` • `PHP` • `HTML` • `CSS` • `SQL`
 
-**Languages:**  
-`C#`, `PHP`, `HTML`, `CSS`, `SQL`
+### 🧰 Tools & Technologies  
+`Visual Studio` • `VS Code` • `MySQL` • `XAMPP` • `WordPress` • `Git` • `GitHub`
 
-**Frameworks & Tools:**  
-`.NET Framework`, `Visual Studio`, `VS Code`, `XAMPP`, `WordPress`
-
-**Database:**  
-`MySQL`
-
-**Other Tools:**  
-`Microsoft Office`, `Git`, `GitHub`
-
-## 📈 Goals
-
-- Contribute to open-source projects
-- Improve skills in full-stack development
-- Learn modern frameworks like Laravel and React
-- Gain experience in cloud technologies
+### 💼 Productivity  
+`Microsoft Word` • `Excel` • `PowerPoint` • `Documentation` • `Reporting`
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Languages
 
-📫 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/rishieghesh-thayaparan) or email me at rishieghesh202@gmail.com. I’m always open to collaboration, feedback, and new opportunities.
+- 🗣️ Tamil: Native  
+- 💬 English: Proficient  
+- 🗣️ Sinhala: Beginner
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+## 📞 Contact Me
+
+- 📧 Email: [rishieghesh202@gmail.com](mailto:rishieghesh202@gmail.com)  
+- 📍 Location: Kalmunai, Eastern Province, Sri Lanka  
+- 🔗 LinkedIn: [linkedin.com/in/rishieghesh-thayaparan](https://www.linkedin.com/in/rishieghesh-thayaparan)
+
+---
+
+> *Think like a mad for your extrodinary dreams – Rishieghesh. T*
+
