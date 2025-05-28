@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Rishieghesh </h1>
 <p align="center">
-  🎓 Undergraduated | 💻 Aspiring Web Developer | 🌍 Kalmunai, Sri Lanka  
+  🎓 Undergraduate in SLIATE | Aspiring Software Developer | Passionate About Web Development and Data Analysis  
+  <br>
+  🌍 Kalmunai, Sri Lanka
 </p>
 <p align="center">
   <a href="mailto:rishieghesh202@gmail.com"><img src="https://img.shields.io/badge/Email-rishieghesh202@gmail.com-red?style=for-the-badge&logo=gmail"></a>
