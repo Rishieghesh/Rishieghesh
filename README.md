@@ -27,21 +27,12 @@ I am a detail-oriented IT graduate with practical experience in software and web
 ### 💼 Productivity  
 `Microsoft Word` • `Excel` • `PowerPoint` • `Documentation` • `Reporting`
 
----
 
 ## 🌐 Languages
 
 - 🗣️ Tamil: Native  
 - 💬 English: Proficient  
 - 🗣️ Sinhala: Beginner
-
----
-
-## 📞 Contact Me
-
-- 📧 Email: [rishieghesh202@gmail.com](mailto:rishieghesh202@gmail.com)  
-- 📍 Location: Kalmunai, Eastern Province, Sri Lanka  
-- 🔗 LinkedIn: [linkedin.com/in/rishieghesh-thayaparan](https://www.linkedin.com/in/rishieghesh-thayaparan)
 
 ---
 
