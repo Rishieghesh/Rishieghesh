@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Rishieghesh Thayaparan</h1>
+<h1 align="center">Hi there 👋, I'm Rishieghesh ,</h1>
 <p align="center">
   🎓 Undergraduated | 💻 Aspiring Web Developer | 🌍 Kalmunai, Sri Lanka  
 </p>
